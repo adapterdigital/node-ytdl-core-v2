@@ -1,15 +1,15 @@
 {
-  "name": "ytdl-core",
+  "name": "@adapterdigital/ytdl-core-v2",
   "description": "YouTube video downloader in pure javascript.",
   "keywords": [
     "youtube",
     "video",
     "download"
   ],
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/node-ytdl-core.git"
+    "url": "https://github.com/adapterdigital/ytdl-core.git"
   },
   "author": "fent <fentbox@gmail.com> (https://github.com/fent)",
   "contributors": [
