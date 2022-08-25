@@ -1,12 +1,16 @@
 {
-  "name": "ytdl-core-v2",
+  "name": "node-ytdl-core-v2",
   "description": "YouTube video downloader in pure javascript.",
   "keywords": [
     "youtube",
     "video",
     "download"
   ],
-  "version": "0.0.3",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adapterdigital/node-ytdl-core-v2.git"
+  },
   "author": "fent <fentbox@gmail.com> (https://github.com/fent)",
   "contributors": [
     "Tobias Kutscha (https://github.com/TimeForANinja)",
@@ -53,18 +57,5 @@
   "engines": {
     "node": ">=12"
   },
-  "license": "MIT",
-  "directories": {
-    "example": "example",
-    "lib": "lib",
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/adapterdigital/ytdl-core.git"
-  },
-  "bugs": {
-    "url": "https://github.com/adapterdigital/ytdl-core/issues"
-  },
-  "homepage": "https://github.com/adapterdigital/ytdl-core#readme"
+  "license": "MIT"
 }
