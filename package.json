@@ -9,7 +9,7 @@
   "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adapterdigital/ytdl-core.git"
+    "url": "https://github.com/adapterdigital/ytdl-core-v2.git"
   },
   "author": "fent <fentbox@gmail.com> (https://github.com/fent)",
   "contributors": [
